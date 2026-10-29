@@ -26,15 +26,15 @@ python calculadora.py
 
 **Soma**
 
-![Soma](soma.png.png)
+![Soma](Imagens/soma.png.png)
 
 **Subtração com números decimais**
 
-![Subtração](subtracao.png.png)
+![Subtração](Imagens/subtracao.png.png)
 
 **Divisão por zero**
 
-![Divisão por zero](divisao-por-zero.png.png)
+![Divisão por zero](Imagens/divisao-por-zero.png.png)
 
 ## Como o código funciona
 
