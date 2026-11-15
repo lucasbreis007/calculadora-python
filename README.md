@@ -1,5 +1,7 @@
 # 🧮 Calculadora em Python
 
+**English summary:** Terminal calculator in Python with the four basic operations, input validation and division-by-zero handling, built with Google AI Studio.
+
 Calculadora de terminal com as quatro operações básicas (adição, subtração, multiplicação e divisão), desenvolvida com auxílio do Google AI Studio como parte do **Desafio 1: Criando sua primeira aplicação com IA**.
 
 ## Funcionalidades
